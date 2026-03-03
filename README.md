@@ -1,25 +1,12 @@
 # 💫 About Me:
-👋 Hi, I'm Sonu — a Data Analyst & Machine Learning Enthusiast passionate about turning raw data into actionable insights.  
-
-📊 I specialize in building end-to-end analytics workflows — from data extraction and cleaning to visualization and predictive modeling.  
+👋 Hi, I'm Sonu — Data Analyst & Machine Learning Enthusiast focused on transforming raw data into actionable business insights.
+📊 I build end-to-end analytics workflows — from data extraction and modeling to interactive dashboards and predictive systems.
 
 🚀 Currently focused on:
 - Advanced SQL & data modeling
 - Machine Learning algorithms & model evaluation
-- Building real-world analytics dashboards
+- Real-world analytics dashboards
 - Backend APIs for ML deployment (FastAPI / Flask)
-
-💡 I enjoy solving business problems using data-driven thinking and continuously improving my analytical depth.
-
-🤝 Open to collaborating on Data Analytics, BI Dashboards, and ML-based projects.
-
-
----
-
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-saroj-0459b9243/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://sonusaroj.hashnode.dev/) 
-
 
 ---
 
@@ -51,15 +38,6 @@
 ### 📌 Collaboration & Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-# 📈 What You'll Find on My GitHub:
-🔹 End-to-end Data Analysis Projects  
-🔹 SQL Case Studies & Business Problem Solving  
-🔹 Machine Learning Model Implementations  
-🔹 API-based Data Projects  
-🔹 Dashboard & Visualization Work  
 
 ---
 
