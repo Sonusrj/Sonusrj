@@ -5,13 +5,17 @@
 
 🚀 Currently focused on:
 - Advanced SQL & data modeling
-- Machine Learning algorithms & model evaluation
-- Real-world analytics dashboards
+- Machine Learning & GenAi
+- Interactive analytics dashboards
 - Backend APIs for ML deployment (FastAPI / Flask)
 
 🤝 Open to Data Analytics, BI & ML collaborations.
 
+📫 [Email](mailto:sonusaroj02010@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sonu-saroj-0459b9243/) · [GitHub](https://github.com/Sonusrj)
+
 ---
+
+
 
 # 💻 Tech Stack:
 
@@ -34,7 +38,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sonusrj&theme=gotham&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonusrj&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+✨ Fun fact: When I’m not debugging SQL joins or ML models, I’m probably in the gym chasing PRs or exploring new tech content on Web.
